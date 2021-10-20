@@ -8,6 +8,10 @@
     <Authors>Marcin Myśliwiec</Authors>
     <Company>Marcin Myśliwiec</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MarcinMysliwiec/UnixTimeStamp</RepositoryUrl>
+    <PackageTags>timestamp, unix,time, datetime</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
