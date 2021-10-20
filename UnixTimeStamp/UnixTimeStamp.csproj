@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Description>Convert unix second time stamp to DateTime and revert with two functions</Description>
+    <PackageId>Marcin.Mysliw.UnixTimeStamp</PackageId>
+    <Authors>Marcin Myśliwiec</Authors>
+    <Company>Marcin Myśliwiec</Company>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
